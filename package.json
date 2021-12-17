@@ -13,6 +13,9 @@
     "colors": "^1.4.0",
     "date-fns": "^2.27.0",
     "date-fns-timezone": "^0.1.4",
-    "date-fns-tz": "^1.1.6"
+    "date-fns-tz": "^1.1.6",
+    "inquirer": "^8.2.0",
+    "path": "^0.12.7",
+    "yargs": "^17.3.0"
   }
 }
